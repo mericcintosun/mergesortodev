@@ -10,3 +10,5 @@ Merge Sort Dersinin Ödevi Patikadev
 
 
 **Big-O Gösterimi: O(n-1) sorgu sayısı.**
+
+[Patika.dev](https://app.patika.dev/paths)
